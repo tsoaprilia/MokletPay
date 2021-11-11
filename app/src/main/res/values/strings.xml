@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MokletPay</string>
+    <string name="nama_siswa">Nama Siswa</string>
+    <string name="history_price">Rp. 000.000,00</string>
 </resources>
